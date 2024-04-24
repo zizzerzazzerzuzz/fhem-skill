@@ -1,4 +1,4 @@
 rapidfuzz==0.12.2
-requests
+requests=2.25.0
 responses
 fhem
