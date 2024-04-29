@@ -1,4 +1,0 @@
-rapidfuzz==0.12.2
-requests==2.25 .0
-responses
-fhem
